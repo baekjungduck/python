@@ -7,7 +7,7 @@ window.resizable(False, False)
 
 def btnclick():
     label.config(font=("Arial",40))
-    label.config(text="안산공업고등학교 컴퓨터과")
+    label.config(text="안산공업고등학교 컴퓨터과",fg="red")
 
     
 
